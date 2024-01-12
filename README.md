@@ -24,7 +24,7 @@ You'll need MacOS to build, as you require Xcode Command Line Tools. If you don'
 
 Once you open the Bootstrap app, press Bootstrap. This will install the necessary apps and files.
 
-You can add various sources to Sileo or Zebra, and install tweaks. You may need to convert tweaks to be Bootstrap compatible.
+You can add various sources to Sileo, and install tweaks. You may need to convert tweaks to be Bootstrap compatible.
 
 By default, tweaks are not injected into any apps. To enable tweak injection, click AppEnabler in the Bootstrap app, and toggle on an app you want to enable your tweaks in. You *cannot* inject into SpringBoard (com.apple.springboard) or Photos (com.apple.mobileslideshow) at the moment.
 

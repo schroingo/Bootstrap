@@ -100,7 +100,7 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fMY-Su-mQL">
                                 <rect key="frame" x="16" y="450" width="139" height="45"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <buttonConfiguration key="configuration" style="tinted" image="arrow.clockwise" catalog="system" title="Reinstall Sileo+Zebra"/>
+                                <buttonConfiguration key="configuration" style="tinted" image="arrow.clockwise" catalog="system" title="Reinstall Sileo"/>
                                 <connections>
                                     <action selector="reinstallPackageManager:" destination="BYZ-38-t0r" eventType="touchUpInside" id="egA-SC-xt5"/>
                                 </connections>
