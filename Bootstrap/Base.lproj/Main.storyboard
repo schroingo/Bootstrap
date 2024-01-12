@@ -18,6 +18,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="430" height="932"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
+
                             <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" enabled="NO" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="Bootstrap" textAlignment="center" adjustsFontSizeToFit="NO" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="mHC-UO-Fsn">
                                 <rect key="frame" x="109.66666666666669" y="83" width="211" height="43.666666666666657"/>
                                 <color key="textColor" white="1" alpha="0.79656456953642385" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -166,8 +167,11 @@
                         <outlet property="appEnablerBtn" destination="EZ0-Bd-3hy" id="k9y-cw-Yfn"/>
                         <outlet property="bootstraBtn" destination="a00-Is-meU" id="chJ-cA-4pr"/>
                         <outlet property="logView" destination="vAH-eh-yux" id="XVQ-B0-Whq"/>
+                        <outlet property="opensshLabel" destination="ZIf-Su-8xG" id="kqm-4V-SI1"/>
                         <outlet property="opensshState" destination="bPU-Gp-wbI" id="AD0-vT-lfL"/>
+                        <outlet property="rebuildIconCacheBtn" destination="Ocj-vU-eoB" id="pUg-zo-HAd"/>
                         <outlet property="rebuildappsBtn" destination="Qyj-sw-Fdy" id="3LT-9H-8bm"/>
+                        <outlet property="reinstallPackageManagerBtn" destination="fMY-Su-mQL" id="E3R-GV-oLX"/>
                         <outlet property="respringBtn" destination="L3N-5g-U7l" id="lIx-4D-zVr"/>
                         <outlet property="uninstallBtn" destination="LQX-IC-Eof" id="u0Z-hU-k5W"/>
                     </connections>
